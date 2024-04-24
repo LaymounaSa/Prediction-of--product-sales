@@ -20,7 +20,7 @@ Methods
 Results
 Here are examples of how to embed images from your sub-folder
 Visual 1 Title
- 
+ ![Floortier](Floortier.png)
 Sentence about visualization.
 Visual 2 Title
 Model
